@@ -5,6 +5,10 @@ VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bilgi_Yarismasi", "Bilgi_Yarismasi\Bilgi_Yarismasi.csproj", "{942463EE-EC08-4B31-B63B-19C7C5FAC7A3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Donguler", "Donguler\Donguler.csproj", "{F0B0D0F1-D505-4EF9-B8EE-1D4D8ECA8545}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Timer", "Timer\Timer.csproj", "{6378230D-5BA7-4B5E-B5F1-A720E225FC2D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{942463EE-EC08-4B31-B63B-19C7C5FAC7A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{942463EE-EC08-4B31-B63B-19C7C5FAC7A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{942463EE-EC08-4B31-B63B-19C7C5FAC7A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0B0D0F1-D505-4EF9-B8EE-1D4D8ECA8545}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0B0D0F1-D505-4EF9-B8EE-1D4D8ECA8545}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0B0D0F1-D505-4EF9-B8EE-1D4D8ECA8545}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0B0D0F1-D505-4EF9-B8EE-1D4D8ECA8545}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6378230D-5BA7-4B5E-B5F1-A720E225FC2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6378230D-5BA7-4B5E-B5F1-A720E225FC2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6378230D-5BA7-4B5E-B5F1-A720E225FC2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6378230D-5BA7-4B5E-B5F1-A720E225FC2D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
