@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Donguler", "Donguler\Dongul
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Timer", "Timer\Timer.csproj", "{6378230D-5BA7-4B5E-B5F1-A720E225FC2D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgressBar_Timer", "ProgressBar_Timer\ProgressBar_Timer.csproj", "{C0E26741-0A37-4A69-A152-5EE31FB02D6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PastaPisirmeSureci", "PastaPisirmeSureci\PastaPisirmeSureci.csproj", "{7C6CF983-AD7A-4578-A6F9-C27F8914CD84}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{6378230D-5BA7-4B5E-B5F1-A720E225FC2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6378230D-5BA7-4B5E-B5F1-A720E225FC2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6378230D-5BA7-4B5E-B5F1-A720E225FC2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0E26741-0A37-4A69-A152-5EE31FB02D6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0E26741-0A37-4A69-A152-5EE31FB02D6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0E26741-0A37-4A69-A152-5EE31FB02D6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0E26741-0A37-4A69-A152-5EE31FB02D6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C6CF983-AD7A-4578-A6F9-C27F8914CD84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C6CF983-AD7A-4578-A6F9-C27F8914CD84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C6CF983-AD7A-4578-A6F9-C27F8914CD84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C6CF983-AD7A-4578-A6F9-C27F8914CD84}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
